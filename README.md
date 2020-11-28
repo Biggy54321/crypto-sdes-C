@@ -88,3 +88,7 @@ $> ./sdes_enc <key> | ./sdes_dec <key>
 <plaintext_msg> (input)
 <plaintext_msg> (output)
 ```
+
+### References
+
+http://www.brainkart.com/article/Simplified-Data-Encryption-Standard-(S-DES)_8343/
