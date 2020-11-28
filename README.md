@@ -12,10 +12,13 @@ the standard input and prints the result message on the standard output.
     + Substitution boxes
     + Circular left shifting
 * The parameters of S-DES implemented
-    + Plaintext block size - 8 bits
-    + Key size - 10 bits
-    + Number of rounds - 2
-    + Operation mode - Electronic Code Book (ECB)
+
+    |**Parameter**|**Value**|
+    |-|-|
+    |Plaintext block size|8 bits|
+    |Key size|10 bits|
+    |Number of rounds|2|
+    |Operation mode|Electronic Code Book (ECB)|
 
 ### Program source
 
