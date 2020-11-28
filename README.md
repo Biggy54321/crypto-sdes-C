@@ -28,7 +28,7 @@ Provides the different data types of various sizes required for S-DES
 
 #### Substitution box code (sdes_sub_box.h and sdes_sub_box.c)
 
-Provides the S-box functionality wherein substitutes two nibbles of a byte using
+Provides the S-box functionality which substitutes two nibbles of a byte using
 two different S-boxes.
 
 #### Permutation boxes (sdes_perm.h and sdes_perm.c)
